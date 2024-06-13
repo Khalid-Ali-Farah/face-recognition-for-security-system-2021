@@ -46,7 +46,7 @@ To exit, press q on the keyboard.
 
 
 
-![Web Development](https://github.com/Khalid-Ali-Farah/face-recognition-for-security-system-2021/blob/db4aa8664e5952dda62b04311b1098a0d65fc38e/Face%20Recognition%20(For%20Security%20System)/example.png)
+![preview image](https://github.com/Khalid-Ali-Farah/face-recognition-for-security-system-2021/blob/db4aa8664e5952dda62b04311b1098a0d65fc38e/Face%20Recognition%20(For%20Security%20System)/example.png)
 
 
 
