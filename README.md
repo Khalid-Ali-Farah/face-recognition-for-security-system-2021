@@ -43,7 +43,9 @@ To exit, press q on the keyboard.
 # Known person and UnKnown example Preview
 
 
-![Alt text]([path/to/image](https://github.com/Khalid-Ali-Farah/face-recognition-for-security-system-2021/blob/dd2185b2d441bfabf6ce8d5cd7a45d95bb9467aa/Face%20Recognition%20(For%20Security%20System)/example.png))
+
+![alt text](https://github.com/[username]/[reponame]/blob/[branch]/example.png?raw=true)
+
 
 
 
