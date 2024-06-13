@@ -46,7 +46,7 @@ To exit, press q on the keyboard.
 
 
 
-![Web Development](https://github.com/Khalid-Ali-Farah/University-Projects/blob/main/Black%20Minimalist%20Motivation%20Quote%20LinkedIn%20Banner.png)
+![Web Development](https://github.com/Khalid-Ali-Farah/face-recognition-for-security-system-2021/blob/db4aa8664e5952dda62b04311b1098a0d65fc38e/Face%20Recognition%20(For%20Security%20System)/example.png)
 
 
 
