@@ -44,9 +44,9 @@ To exit, press q on the keyboard.
 
 
 
-![alt text](https://github.com/[username]/[reponame]/blob/[branch]/example.png?raw=true)
 
 
+![screenshot](example.png)
 
 
 
