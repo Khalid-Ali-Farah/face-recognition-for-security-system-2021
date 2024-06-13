@@ -33,10 +33,6 @@ This project implements a real-time face recognition system using Python, OpenCV
 
 1. **Clone the Repository:**
 
-   ```bash
-   git clone https://github.com/your-username/face-recognition-security-system.git
-   cd face-recognition-security-system
-
 #Operating the Program:
 
 The webcam feed will display with recognized faces labeled with their names.
