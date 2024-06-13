@@ -40,9 +40,10 @@ To exit, press q on the keyboard.
 
 #Screenshots
 
-## Known person and UnKnown example Preview
+# Known person and UnKnown example Preview
 
-![example](Face Recognition (For Security System)/example.png)
+
+![Alt text](path/to/image)
 
 
 
