@@ -46,8 +46,7 @@ To exit, press q on the keyboard.
 
 
 
-![screenshot](example.png)
-
+![Web Development](https://github.com/Khalid-Ali-Farah/University-Projects/blob/main/Black%20Minimalist%20Motivation%20Quote%20LinkedIn%20Banner.png)
 
 
 
