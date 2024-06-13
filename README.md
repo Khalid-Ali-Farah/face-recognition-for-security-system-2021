@@ -40,10 +40,13 @@ To exit, press q on the keyboard.
 
 #Screenshots
 
-Caption for Screenshot 1
+## Known person and UnKnown example Preview
+
+![example](example.png)
 
 
-Caption for Screenshot 2
+
+
 
 #Team Members
 
