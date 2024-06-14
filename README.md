@@ -50,7 +50,7 @@ To exit, press q on the keyboard.
 
 
 
-#Team Members
+# Team Members
 
 Khalid Ali Farah - B032020051
 
